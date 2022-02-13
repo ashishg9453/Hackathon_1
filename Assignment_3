@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment3</title>
+</head>
+<body>
+<h1>Duplex suite with Terrace & Mountain view</h1>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+.checked {
+  color: #FF0000;
+}
+  
+</style>
+  
+  <span class="fa fa-star checked"></span>
+  <span>4.79</span>
+  <span>.</span>
+  <span><u>63 reviews</u> </span>
+  <span>Unicode:</span>
+<i class="fa fa-heart" style="font-size:12px;color:red"></i>
+<span> Superhost</span>
+  <span><u>Manali, Himachal Pradesh, India</u> </span>
+  <i class="fa fa-upload"></i>
+  <span><u>Share</u> </span>
+  
+  <i class="fa fa-heart-o"></i>
+  <span><u>Save</u> </span>
+    <div class="row">
+  <div class="column">
+    <img src="https://a0.muscache.com/im/pictures/2969b217-ac3d-4a64-abd6-e2ece6240a0c.jpg?im_w=960">
+     <img src="https://a0.muscache.com/im/pictures/d13e0735-1430-4791-8a07-fa8ca0ec9ab7.jpg?im_w=480">
+     <img src="https://a0.muscache.com/im/pictures/fc7e7f9a-e3f9-4fcf-97a3-518a4be928cd.jpg?im_w=480">
+     <img src="https://a0.muscache.com/im/pictures/b3f88834-3d1a-4ae1-a55b-9b801a8b0add.jpg?im_w=480">
+    <img src="https://a0.muscache.com/im/pictures/79773cc4-f001-4fbe-9a86-41e840269047.jpg?im_w=480">
+    </div>
+      </div>
+ 
+ 
+</body>
+</html>
