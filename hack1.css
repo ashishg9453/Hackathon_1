@@ -33,11 +33,11 @@
       background-color: rgba(var(--b3f,250,250,250));
   }
   .logo {
-    width: 55%;
+    width: 50%;
     margin-top: 20px;
-    right: 50%;
+    right: 5%;
     top: 5%;
-    height: 15%;
+    height: 12%;
   }
   
   button{
@@ -53,7 +53,7 @@
       font-family: latha;
       font-style: bold;
       font-size: 15px;
-      width: 80%;
+      width: 77%;
   }
   input{
     padding: 10px;
@@ -61,7 +61,7 @@
     position: relative;
     width: 150%;
     height: 14px;
-    background: #3a2d2d;
+    background: white;
     font-size: 12px;
     right: 10%;
   }
@@ -86,6 +86,7 @@
     font-size: 14px;
     color: #385185;
     font-family: 'Roboto', sans-serif;
+  
   }
   resetpwd{
     position: absolute;
@@ -102,7 +103,7 @@
     background: #fafafa;
     position: absolute;
     top: 95%;
-    width: 250px;
+    width: 280px;
     text-align: right;
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
@@ -135,7 +136,7 @@
       width: 155px ;
       height: 45px;
     }
-    media (max-width: 860px) {
+    @media (max-width: 860px) {
       .insta {
         display: none;
-      }
+      }}
