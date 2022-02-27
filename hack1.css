@@ -1,0 +1,141 @@
+
+  
+  body {
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: 28% -5%;
+    background-size: 400px 600px; 
+    
+  }
+  .insta-box
+  {
+    padding: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    border: 1px solid rgb(221,220,220); 
+    width: 250px;
+    height: 350px;
+    background-color: rgba(var(--d87,255,255,255));
+    
+  }
+  .insta{
+      position: absolute;
+      width: 100%;
+      height: 140%;
+      top: -10%;
+      left: -110%;
+  }
+  body{
+      position: absolute;
+      top: 6%;
+      left: 50%;
+      background-color: rgba(var(--b3f,250,250,250));
+  }
+  .logo {
+    width: 55%;
+    margin-top: 20px;
+    right: 50%;
+    top: 5%;
+    height: 15%;
+  }
+  
+  button{
+      position: absolute;
+      padding: 0px;
+      border-radius: 5px;
+      border:white;
+      height: 7%;
+      right: 10%;
+      cursor: pointer;
+      color: whitesmoke;
+      background-color: skyblue;
+      font-family: latha;
+      font-style: bold;
+      font-size: 15px;
+      width: 80%;
+  }
+  input{
+    padding: 10px;
+    border: 2px solid rgb(221, 220, 220);
+    position: relative;
+    width: 150%;
+    height: 14px;
+    background: #3a2d2d;
+    font-size: 12px;
+    right: 10%;
+  }
+  h4{
+    font-family: calibri light;
+    position: relative;
+    opacity: 50%;
+    }
+  a{
+    text-decoration: none;
+    font-family: calibri light;
+  }  
+  img{
+    position: absolute;
+    width: 15px;
+    height: 16px;
+    top: 76%;
+    left: 27%;
+  }
+  .loginfb{
+    font-weight: 550;
+    font-size: 14px;
+    color: #385185;
+    font-family: 'Roboto', sans-serif;
+  }
+  resetpwd{
+    position: absolute;
+    left: 35%;
+    font-size: 14px;
+    color: #003569;
+  }
+  .signup{
+    padding: 0px;
+    border: 2px solid rgb(221,220,220);
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-bottom: 11px;
+    background: #fafafa;
+    position: absolute;
+    top: 95%;
+    width: 250px;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #262626;
+      }
+    .signup a{
+      color: #3897f0;
+      font-weight: bold;
+      font-size: 16px;
+    }
+    .final{
+      position: absolute;
+      top: 111%;
+      left: 40%;
+      font-family: 'Roboto', sans-serif;
+      font-size: 13.5px;
+    }
+    .apple{
+      position: absolute;
+      top: 122%;
+      left: 5%;
+      width: 155px ;
+      height: 45px;
+    }
+    .google
+    {
+      position: absolute;
+      top: 122%;
+      left: 53%;
+      width: 155px ;
+      height: 45px;
+    }
+    media (max-width: 860px) {
+      .insta {
+        display: none;
+      }
